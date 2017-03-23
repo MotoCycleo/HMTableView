@@ -1,0 +1,22 @@
+{
+  "name": "HMTableView",
+  "version": "0.1.0",
+  "summary": "A short description of HMTableView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/goodlord01/HMTableView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "goodlord01": "sanguineok@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/goodlord01/HMTableView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HMTableView/Classes/**/*"
+}
